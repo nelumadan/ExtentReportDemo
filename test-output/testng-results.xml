@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-16T18:40:24 PST" name="Default suite" finished-at="2022-01-16T18:44:30 PST" duration-ms="246038">
+    <groups>
+    </groups>
+    <test started-at="2022-01-16T18:40:24 PST" name="Default test" finished-at="2022-01-16T18:44:30 PST" duration-ms="246038">
+      <class name="extentReportDemo">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:extentReportDemo@79ad8b2f]" started-at="2022-01-16T18:40:24 PST" name="BeforeSuite" finished-at="2022-01-16T18:40:24 PST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method signature="extentReport1()[pri:0, instance:extentReportDemo@79ad8b2f]" started-at="2022-01-16T18:40:24 PST" name="extentReport1" finished-at="2022-01-16T18:43:02 PST" duration-ms="157627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport1 -->
+        <test-method signature="extentReport2()[pri:0, instance:extentReportDemo@79ad8b2f]" started-at="2022-01-16T18:43:02 PST" name="extentReport2" finished-at="2022-01-16T18:44:30 PST" duration-ms="88153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport2 -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:extentReportDemo@79ad8b2f]" started-at="2022-01-16T18:44:30 PST" name="AfterSuite" finished-at="2022-01-16T18:44:31 PST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- extentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
